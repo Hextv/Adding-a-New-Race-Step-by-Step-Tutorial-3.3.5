@@ -374,7 +374,7 @@ In this .dbc, we are going to assign the `.mdx` file of our race to both the mal
 5010,4,"Character\Goblin\Female\GoblinFemale.mdx",1,1.0,1,1,12.0,10.0,1.0,,0,0,1128,0.555599987507,1.38900005817,0.460123002529,-0.452913999557,-0.579069972038,-0.0106370002031,0.470234006643,0.530076026917,1.39890694618,1.0,1.0,0.0,0.0,0.0,
 ```
 
-To know what each column is, visit: [CreatureModelData.dbc](https://wow.tools/dbc/?dbc=creaturemodeldata).
+To know what each column is, visit: [CreatureModelData.dbc](https://wowdev.wiki/DB/CreatureModelData).
 
 ---
 
