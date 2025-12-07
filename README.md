@@ -359,7 +359,7 @@ With this, your PCs will be able to speak correctly. Just like when we change va
 
 When you have several lines in a skill, as you have verified with 98 and 109, look at the fifth column; the value `0x80` means available to learn.
 
-You can better understand this .dbc at this link: [SkillRaceClassInfo.dbc](https://wow.tools/dbc/?dbc=skillraceclassinfo).
+You can better understand this .dbc at this link: [SkillRaceClassInfo.dbc](https://wowdev.wiki/DB/SkillRaceClassInfo).
 
 ---
 
