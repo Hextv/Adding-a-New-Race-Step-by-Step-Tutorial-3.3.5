@@ -489,7 +489,7 @@ Here we will assign the values of the beards and facial hair for our races. In t
 9,1,19,5,2,9,0.0,0,
 ```
 
-More info about this .dbc at: [CharacterFacialHairStyles.dbc](https://wow.tools/dbc/?dbc=characterfacialhairstyles).
+More info about this .dbc at: [CharacterFacialHairStyles.dbc](https://wowdev.wiki/DB/CharacterFacialHairStyles).
 
 ---
 
