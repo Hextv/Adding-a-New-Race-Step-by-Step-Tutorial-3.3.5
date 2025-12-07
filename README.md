@@ -391,7 +391,7 @@ In this .dbc, we are going to assign a DisplayID to our custom race model. To do
 
 Roughly speaking, this means that we created DisplayID 40029 for the CreatureModelData 5005 (WorgenMale) and with the CreatureDisplayInfoExtra 25017 that we will see now. We do that for each of the displays that we want to declare, which is why there are 4 lines, corresponding to the Male Worgen, Female Worgen, Male Goblin, and Female Goblin.
 
-More information from the table at: [CreatureDisplayInfo.dbc](https://wow.tools/dbc/?dbc=creaturedisplayinfo).
+More information from the table at: [CreatureDisplayInfo.dbc](https://wowdev.wiki/DB/CreatureDisplayInfo).
 
 ---
 
