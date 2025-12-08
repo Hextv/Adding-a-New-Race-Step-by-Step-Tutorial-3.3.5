@@ -2,6 +2,12 @@
 
 This guide provides a complete, step-by-step walkthrough on how to add fully playable custom races to a World of Warcraft 3.3.5a server based on TrinityCore. It covers every part of the process, from modifying the core, to editing DBCs, updating the database, and finally enabling the races in the game client.
 
+[![Trinitycore](https://img.shields.io/badge/TrinityCore-supported-brightgreen?logo=worldofwarcraft&style=flat)](https://trinitycore.org/)
+
+[![AzerothCore](https://img.shields.io/badge/Azerothcore-not%20fully%20supported-yellow?logo=worldofwarcraft&style=flat)](https://www.azerothcore.org/)
+
+--> [More information]()
+
 --> [Jump straight to the Tutorial](#The-Tutorial)
 
 ## Credits to
@@ -1008,3 +1014,23 @@ And we’re finally done!!
 We would only have to download the following file: [DOWNLOAD](https://mega.nz/file/eQAwRLCJ#jYy5eVWR_ZFG0ftWtF25u6_MEzqIfm-hT1EvPAi51yk). This is saved in the "Interface/Glues/CharacterCreate" path within the patch. The same thing, the icons do not match the coordinates that we have put in the tutorial since I did this file long after doing this tutorial and it has many more icons of more races. For them to match, the Cataclysm client's BLP would have to be used.
 
 The `.lua` files go inside the patch in the "Interface/GlueXML" path.
+
+
+### Congratulations for your first custom Races!
+
+
+# More Information
+### Support
+
+For support, you can check out these Discord Servers listed below:
+
+https://discord.gg/zD58AbTD7J (WoW Modding Community)
+
+https://discord.gg/FgmWNvnQed (Hex's Community)
+
+or you can dm Hex_Tv#2545
+
+### License
+
+[Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
