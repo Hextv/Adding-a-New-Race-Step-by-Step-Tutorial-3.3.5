@@ -27,9 +27,15 @@ This guide provides a complete, step-by-step walkthrough on how to add fully pla
 
 [es.convertbinary BtD Converter 2](https://www.rapidtables.com/convert/number/binary-to-decimal.html) (Optional)
 
+### MPQ Editor
+
+[Ladik's MPQ Editor](https://www.hiveworkshop.com/threads/ladiks-mpq-editor.249562/) (Used)
+
 ### DBC Editor (Used)
 
 [WDBX Editor](https://github.com/WowDevTools/WDBXEditor) (Used)
+
+[HexDBC Editor](https://github.com/Hextv/hexdbc/releases) (Optional)
 
 [Rekt's WDBX Editor](https://github.com/rektbyfaith/WDBX-Editor--WoW-Modding/releases/tag/Release) (Optional)
 
@@ -978,7 +984,7 @@ This file is to define the information related to the characters. We are going t
 We are looking for this:
 
 ```lua
-ABILITY_INFO_BLOODELF1 = "- Increased enchanting skill.";
+ABILITY_INFO_BLOODELF1 = "- Enchanting skill increased.";
 ```
 
 And we add above that line this:
@@ -1028,7 +1034,7 @@ https://discord.gg/zD58AbTD7J (WoW Modding Community)
 
 https://discord.gg/FgmWNvnQed (Hex's Community)
 
-or you can dm Hex_Tv#2545
+or you can DM Hex_Tv#2545
 
 ### License
 
